@@ -3,7 +3,7 @@ module.exports = {
     connection: {
       host: 'localhost',
       user: 'root',
-      password: '',
+      password: 'mike429A',
       database: 'gols_antarin_db',
       charset: 'utf8',
     },
